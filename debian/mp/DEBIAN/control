@@ -3,6 +3,7 @@ Version: 1.0
 Architecture: amd64
 Maintainer: Prokopchuukk<prokopchu.u.k.k@gmail.com>
 Installed-Size: 24
+Depends: libc6 (>= 2.34), libstdc++6 (>= 4.4)
 Section: utils
 Priority: optional
-Description: Simple Hello World program
+Description: A simple program that prints "Hello, World!" to the console.
