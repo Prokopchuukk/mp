@@ -3,7 +3,7 @@ Section: utils
 Priority: optional
 Maintainer: Prokopchuukk<prokopchu.u.k.k@gmail.com>
 Standards-Version: 4.5.1
-Build-Depends: build-essential, debhelper (>=9)
+Build-Depends: build-essential, debhelper (>= 9)
 
 Package: mp
 Architecture: any
