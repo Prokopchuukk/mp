@@ -1,0 +1,13 @@
+Package: mp-dbgsym
+Package-Type: ddeb
+Source: mp
+Version: 1.0
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Prokopchuukk<prokopchu.u.k.k@gmail.com>
+Installed-Size: 27
+Depends: mp (= 1.0)
+Section: debug
+Priority: optional
+Description: debug symbols for mp
+Build-Ids: 2e235ec109a1b8b9e60f8814347ac24186e061ee

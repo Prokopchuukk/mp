@@ -1,0 +1,12 @@
+symlink  ./install-sh
+symlink  ./depcomp
+symlink  ./missing
+e6169565aad9634e84eb9bbaf519bd35  ./.github/workflows/ci.yml
+f132bcaaaf2e48b68c6927991c23845a  ./Makefile.am
+6c855530ed3b5179e7e0772da7c2c9e9  ./src/main.cpp
+cff68311dae52b12d1968e3256bc5320  ./configure.ac
+f61d7d0c86a48fa663581c1e1d8edb34  ./mp-1.0.tar.gz
+0a5abd6d8cc0668c1c4e52cf3d80f0f0  ./configure
+800f7f2660cad3ce77cf7d7cfbf9b015  ./README.md
+e77d5beb050f7a658c437e55b4e4c563  ./Makefile.in
+a6e90a4ae058a35202a75e2eaaf88d83  ./aclocal.m4
