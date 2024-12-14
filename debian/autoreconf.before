@@ -1,7 +1,4 @@
-symlink  ./install-sh
-symlink  ./depcomp
-symlink  ./missing
-e6169565aad9634e84eb9bbaf519bd35  ./.github/workflows/ci.yml
+ec6298e6cc03d5e2832ace4e8112af7d  ./.github/workflows/ci.yml
 f132bcaaaf2e48b68c6927991c23845a  ./Makefile.am
 6c855530ed3b5179e7e0772da7c2c9e9  ./src/main.cpp
 cff68311dae52b12d1968e3256bc5320  ./configure.ac

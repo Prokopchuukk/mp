@@ -1,5 +1,5 @@
-mp (1.0) unstable; urgency=medium
+mp (1.0) stable; urgency=medium
 
-  * Initial release. (Closes: #XXXXXX)
+  * Initial release.
 
- -- Prokopchuk <prokopchuk@Prokopchuk>  Sat, 14 Dec 2024 23:15:38 +0200
+ -- Prokopchuk <prokopchu.u.k.k@gmail.com>  Sat, 14 Dec 2024 23:15:38 +0200
