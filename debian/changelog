@@ -1,3 +1,9 @@
+mp (1.1) unstable; urgency=medium
+
+  * Fix distribution field.
+
+ -- Prokopchuk <prokopchu.u.k.k@gmail.com>  Sun, 15 Dec 2024 06:32:46 +0200
+
 mp (1.0) stable; urgency=medium
 
   * Initial release.

@@ -3,9 +3,9 @@ Section: utils
 Priority: optional
 Maintainer: Prokopchuukk<prokopchu.u.k.k@gmail.com>
 Standards-Version: 4.5.1
-Build-Depends: build-essential, debhelper (>= 9)
+Build-Depends: debhelper (>= 9), build-essential
 
 Package: mp
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: A simple program that prints "Hello, World!" to the console.
+Description: Simple program that prints "Hello, World!" to the console.
